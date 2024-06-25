@@ -28,12 +28,11 @@
 
 # Projeto Podcast Gerado por I.A.s
 
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui estudante na plataforma da [DIO](https://dio.me).
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+Projeto com o objetivo de gerar um podcast com um layout rico, leitura agradável e com foco em promover autoridade técnica.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+<a href="https://www.notion.so/Full-Stack-Quest-Level-Up-Your-Code-ac992b4981e2480f96aeb0a3789c7fd3"> 📕Clique aqui para ver o Podcast!</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -71,29 +70,15 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://scontent.fjoi2-1.fna.fbcdn.net/v/t39.30808-6/448827709_7910319372351356_6219225715887475891_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEWRxvmvwCyz1TKGNQXu2Zuw2OK3O6pwUfDY4rc7qnBRzN9Dawh8RQU_fDClQK0ZGF2jbRVqXyhdl-YMI_onrCu&_nc_ohc=fUTuCCEefacQ7kNvgGzBtTx&_nc_ht=scontent.fjoi2-1.fna&oh=00_AYCEzHIoTl8fuu1D4bGKW0CLr3d6n2tE3pmEpF1m1CHcqQ&oe=667A142E"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspCassius Vinicius Barg<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/CassiusBarg/">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/cassiusbarg/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/cassiusbarg/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
